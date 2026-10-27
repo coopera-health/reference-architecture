@@ -20,7 +20,7 @@ Finally, the principles of privacy by design and by default require that data pr
 
 *US federal sectoral regime (HIPAA etc.)*
 
-*Other.*
+*Other*
 
 
 *EHR-regulations*
