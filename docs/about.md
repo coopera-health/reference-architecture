@@ -11,6 +11,8 @@ This is community-driven project and is intended to bring together healthcare pr
 We welcome contributions from anyone.  
 See the [Contribute](contribute.md) page for more information.
 
+If you or your organisation would like to collaborate, contact us at [info@coopera.health](mailto:info@coopera.health).
+
 ## Status
 
 The project is currently in an early stage and is evolving based on feedback and collaboration across the region.
